@@ -1,2 +1,2 @@
-# bullshit
-扯淡
+# comments
+討論
