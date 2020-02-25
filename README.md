@@ -2,7 +2,7 @@
 請在 issues 頁面留言進行討論
 https://github.com/shadowquark/comments/issues
 
-標題請使用相應日誌的標題、鏈接、地址，以及帖子的編號
+標題請使用相應日誌的標題、鏈接、地址，或帖子的編號。
 
 對於日誌，
 如 https://shadowquark.github.io/myPGP/
