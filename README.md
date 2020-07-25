@@ -16,4 +16,4 @@ https://github.com/shadowquark/comments/issues
 
 相同主題不一定只使用一個 issue，可以無限制開新 issue。
 
-以不刪貼、不限制任何言辭爲準則。歡迎一切言論，拒絕一切 CoC。
+以不刪貼、不限制任何言辭爲準則。歡迎一切言論，拒絕一切語言規則。
